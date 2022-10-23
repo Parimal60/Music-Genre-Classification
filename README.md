@@ -11,5 +11,6 @@ Extracted timbral texture features includes Spectral entroid, Spectral flux, Roo
 (using 20 MFCCs) of each segment, to use in model. Performed classification using these models -> XGBoost, Random Forrest, K Nearest Neighbour (KNN), Support Vector Machine (SVM), Na¨ıve Bayes, Deep Neural Network (DNN), Convolutional Neural Network (CNN) and Long Short Term Memory (LSTM). 
 
 3) Results: 
-![](Results.png)   
+
+![](Results.jpg)   
 
